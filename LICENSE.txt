@@ -1,0 +1,12 @@
+TRASH EMPIRE public showcase notice
+
+This repository provides presentation materials for the game and its acquisition
+listing. It is not a release of the game source or its editable asset library.
+
+Except for permissions already provided by applicable third-party licenses,
+no additional license to reuse, redistribute, sell or adapt original game
+material is granted by this notice. Existing rights are reserved. Game-project
+transfer and commercial rights are governed by a separate seller/buyer agreement.
+
+Third-party material retains its own terms; see THIRD_PARTY_NOTICES.md and
+licenses/. This notice does not limit those permissions or applicable law.

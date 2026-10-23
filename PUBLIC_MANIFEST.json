@@ -1,0 +1,122 @@
+{
+  "project": "TRASH EMPIRE public media showcase",
+  "prepared_date": "2026-10-23",
+  "excludes_self": true,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 45,
+      "sha256": "0c80858b722830a2ec5fab670e29f9378fc6a62d6a3d520b099534e2b24d61ff"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 694,
+      "sha256": "ebefd1f6a6a485f91bebcc8ed6c3af75b4b556c363f45523a6de1452e11c5ea0"
+    },
+    {
+      "path": "documents/ASSET_INVENTORY.md",
+      "bytes": 1977,
+      "sha256": "06c356224cbc3a0e87d18621c19469f90fc7c34cab2e24c88b5e71ecfda32a27"
+    },
+    {
+      "path": "documents/KNOWN_ISSUES.md",
+      "bytes": 3489,
+      "sha256": "ea5c90d9a75930dde5cdbdef03fc6ae8a484a4c0785ab5adc9cb6ac7d563cc91"
+    },
+    {
+      "path": "documents/QA_REPORT_FULL.md",
+      "bytes": 12349,
+      "sha256": "e8db2956055bc063fde5f30d93d24286934a65ddd7f1901664e1f0d73dd54529"
+    },
+    {
+      "path": "documents/THIRD_PARTY_LICENSES.md",
+      "bytes": 3068,
+      "sha256": "c021b3410761e3261e43ab075cfa61ef43d9db716ef6b279475d0160ca8bc366"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 660,
+      "sha256": "18f44c2c6fbeabb7ec397af978cc09d1553832af3ce7ae62dc731f770c6724a1"
+    },
+    {
+      "path": "licenses/AUDIO-CREDITS.txt",
+      "bytes": 4919,
+      "sha256": "47ecb3be0c77cd058c401e283c44d0ec95660c08915d535c1626f6dc3b7284b0"
+    },
+    {
+      "path": "licenses/GENERALUSER-LICENSE.txt",
+      "bytes": 2270,
+      "sha256": "88726e4b018fb66050054b6633a2996335b0f8fd4186251c20d0546fa0ab44fc"
+    },
+    {
+      "path": "media/city-after.png",
+      "bytes": 256668,
+      "sha256": "0c1de54ec319903ccf507810290fe03c4dc272a713b4971061d23451003b6e11"
+    },
+    {
+      "path": "media/city-before.png",
+      "bytes": 234578,
+      "sha256": "b1e9eb9bfd868dfdbbfd523f7d21ba3f8fff3b120362449f3f047e943c4332c4"
+    },
+    {
+      "path": "media/energy.png",
+      "bytes": 519822,
+      "sha256": "5fbfc5458165cbc087d7b0364e1014bb0cc338d08f9e1a17b6a1422ce95c5b29"
+    },
+    {
+      "path": "media/gameplay.mp4",
+      "bytes": 7421768,
+      "sha256": "5ff544affe9442b00e8b43cea7aeaf701ced4cfbdd4ada54f20d120c2dd40dcd"
+    },
+    {
+      "path": "media/production.png",
+      "bytes": 451296,
+      "sha256": "ae9de8114a83891cf19917c7769696421c5fea22629eda195fa842d2c364d052"
+    },
+    {
+      "path": "media/recycling.png",
+      "bytes": 547594,
+      "sha256": "b4755779bb9f42a42e3e8f089df9423c06d18519ab7df715d3becf6a3e8a3b6b"
+    },
+    {
+      "path": "media/sale-cover.png",
+      "bytes": 749612,
+      "sha256": "df62b36ec5752481fbbee0a2a7fc8de81a47dcd865be77d28b8ff403060ce593"
+    },
+    {
+      "path": "media/shop.png",
+      "bytes": 370276,
+      "sha256": "7efdb72e5f80e0562b67f8b58f87d72fcbe187fd43e8c27369980597e7191ff3"
+    },
+    {
+      "path": "media/yard-overview.png",
+      "bytes": 472803,
+      "sha256": "3c33c4f19c66389f69106b9635c3004df8ed95854f28cc8964eb95eeaf669416"
+    },
+    {
+      "path": "PUBLIC_CONTENTS.md",
+      "bytes": 1498,
+      "sha256": "c659a6fea8f7703f076ef36319f812102beb231d40f84e1fb62c4ccbb4b6b907"
+    },
+    {
+      "path": "PUBLISHING.md",
+      "bytes": 1496,
+      "sha256": "fe38a159953e6130e7216e3dae301ce74185259a56211e1beb07171e6ca4eeba"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3475,
+      "sha256": "fe61b80a0967458df0a8818113e34f5ff815af69498ba059bdbcfa108aeae073"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 1077,
+      "sha256": "a14b69b7ec1761d8a551806159c45da6d9be1ee738ca3d1be3544012479501b0"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "bytes": 972,
+      "sha256": "ff728e227eff1adc68ee18a623b1e10ba80ea54690460d911435c3279eee9b7c"
+    }
+  ]
+}

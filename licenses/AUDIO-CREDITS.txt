@@ -1,0 +1,215 @@
+TRASH EMPIRE audio credits
+
+Five mentor mumbles: original procedural nonverbal synthesis created with
+Codex assistance in tools/build_yard_polish.py. No recorded or cloned human
+voice. Preserved unchanged; individual hashes are in the audio catalog.
+
+work_engine.wav
+chugging diesel (bus) and rev.MP3
+CraftyIndividual
+CC0-1.0
+https://freesound.org/people/CraftyIndividual/sounds/418436/
+https://creativecommons.org/publicdomain/zero/1.0/
+
+work_press.wav
+Schnellläuferpresse 01.WAV
+mark646
+CC0-1.0
+https://freesound.org/people/mark646/sounds/209219/
+https://creativecommons.org/publicdomain/zero/1.0/
+
+work_shredder.wav
+Paper Shredder
+aunrea
+CC0-1.0
+https://freesound.org/people/aunrea/sounds/495666/
+https://creativecommons.org/publicdomain/zero/1.0/
+
+work_furnace.wav
+cooking-gas-burner.wav
+cynthia_1968
+CC0-1.0
+https://freesound.org/people/cynthia_1968/sounds/342637/
+https://creativecommons.org/publicdomain/zero/1.0/
+
+work_molder.wav
+Schnellläuferpresse 01.WAV
+mark646
+CC0-1.0
+https://freesound.org/people/mark646/sounds/209219/
+https://creativecommons.org/publicdomain/zero/1.0/
+
+work_electronics.wav
+Arc Welding.wav
+squashy555
+CC0-1.0
+https://freesound.org/people/squashy555/sounds/256915/
+https://creativecommons.org/publicdomain/zero/1.0/
+
+work_assembly.wav
+Schnellläuferpresse 01.WAV
+mark646
+CC0-1.0
+https://freesound.org/people/mark646/sounds/209219/
+https://creativecommons.org/publicdomain/zero/1.0/
+
+work_conveyor.wav
+Industrial Conveyor Belt
+Kinoton
+CC0-1.0
+https://freesound.org/people/Kinoton/sounds/519027/
+https://creativecommons.org/publicdomain/zero/1.0/
+
+ui_click_0.wav
+ui_click_0
+Kenney
+CC0-1.0
+https://kenney.nl/assets/ui-audio
+https://creativecommons.org/publicdomain/zero/1.0/
+
+ui_click_1.wav
+ui_click_1
+Kenney
+CC0-1.0
+https://kenney.nl/assets/ui-audio
+https://creativecommons.org/publicdomain/zero/1.0/
+
+ui_back.wav
+ui_back
+Kenney
+CC0-1.0
+https://kenney.nl/assets/ui-audio
+https://creativecommons.org/publicdomain/zero/1.0/
+
+ui_switch.wav
+ui_switch
+Kenney
+CC0-1.0
+https://kenney.nl/assets/ui-audio
+https://creativecommons.org/publicdomain/zero/1.0/
+
+coins_0.wav
+coins_0
+Kenney
+CC0-1.0
+https://kenney.nl/assets/rpg-audio
+https://creativecommons.org/publicdomain/zero/1.0/
+
+coins_1.wav
+coins_1
+Kenney
+CC0-1.0
+https://kenney.nl/assets/rpg-audio
+https://creativecommons.org/publicdomain/zero/1.0/
+
+material_cardboard.wav
+material_cardboard
+Kenney
+CC0-1.0
+https://kenney.nl/assets/rpg-audio
+https://creativecommons.org/publicdomain/zero/1.0/
+
+material_plastic.wav
+material_plastic
+Kenney
+CC0-1.0
+https://kenney.nl/assets/impact-sounds
+https://creativecommons.org/publicdomain/zero/1.0/
+
+material_metal.wav
+material_metal
+Kenney
+CC0-1.0
+https://kenney.nl/assets/impact-sounds
+https://creativecommons.org/publicdomain/zero/1.0/
+
+latch.wav
+latch
+Kenney
+CC0-1.0
+https://kenney.nl/assets/rpg-audio
+https://creativecommons.org/publicdomain/zero/1.0/
+
+ready_bell.wav
+ready_bell
+Kenney
+CC0-1.0
+https://kenney.nl/assets/impact-sounds
+https://creativecommons.org/publicdomain/zero/1.0/
+
+tool.wav
+tool
+Kenney
+CC0-1.0
+https://kenney.nl/assets/rpg-audio
+https://creativecommons.org/publicdomain/zero/1.0/
+
+cloth.wav
+cloth
+Kenney
+CC0-1.0
+https://kenney.nl/assets/rpg-audio
+https://creativecommons.org/publicdomain/zero/1.0/
+
+step_0.wav
+step_0
+Kenney
+CC0-1.0
+https://kenney.nl/assets/impact-sounds
+https://creativecommons.org/publicdomain/zero/1.0/
+
+step_1.wav
+step_1
+Kenney
+CC0-1.0
+https://kenney.nl/assets/impact-sounds
+https://creativecommons.org/publicdomain/zero/1.0/
+
+step_2.wav
+step_2
+Kenney
+CC0-1.0
+https://kenney.nl/assets/impact-sounds
+https://creativecommons.org/publicdomain/zero/1.0/
+
+step_grass_0.wav
+step_grass_0
+Kenney
+CC0-1.0
+https://kenney.nl/assets/impact-sounds
+https://creativecommons.org/publicdomain/zero/1.0/
+
+step_grass_1.wav
+step_grass_1
+Kenney
+CC0-1.0
+https://kenney.nl/assets/impact-sounds
+https://creativecommons.org/publicdomain/zero/1.0/
+
+step_grass_2.wav
+step_grass_2
+Kenney
+CC0-1.0
+https://kenney.nl/assets/impact-sounds
+https://creativecommons.org/publicdomain/zero/1.0/
+
+music/menu.ogg
+Warm Yard
+TRASH EMPIRE project score (Codex-assisted)
+Original project score; GeneralUser GS instruments license v2.0
+res://assets/audio/music/score.json
+https://raw.githubusercontent.com/mrbumpy409/GeneralUser-GS/684543d5e5efaef08d02be50dcda8d552478fa60/documentation/LICENSE.txt
+
+music/yard.ogg
+Morning Workshop
+TRASH EMPIRE project score (Codex-assisted)
+Original project score; GeneralUser GS instruments license v2.0
+res://assets/audio/music/score.json
+https://raw.githubusercontent.com/mrbumpy409/GeneralUser-GS/684543d5e5efaef08d02be50dcda8d552478fa60/documentation/LICENSE.txt
+
+music/groove.ogg
+Evening Lights
+TRASH EMPIRE project score (Codex-assisted)
+Original project score; GeneralUser GS instruments license v2.0
+res://assets/audio/music/score.json
+https://raw.githubusercontent.com/mrbumpy409/GeneralUser-GS/684543d5e5efaef08d02be50dcda8d552478fa60/documentation/LICENSE.txt
